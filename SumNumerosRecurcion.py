@@ -1,5 +1,5 @@
 class Solucion:
-
+    #metodo en el cual es el que resivira los datos del usuario los cuales se les llamara como candidatos
     def convinacionSumas(self, candidatos, target):
         candidatos.sort()
         res = set()
